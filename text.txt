@@ -1,1 +1,2 @@
-This is some content of this file.
+This is some content of this file. modified
+New text line added.
